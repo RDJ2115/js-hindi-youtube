@@ -20,4 +20,4 @@ let negValue = -value
 let gameCounter = 100
 gameCounter++;
 console.log(gameCounter);
- //1:30:00
+
