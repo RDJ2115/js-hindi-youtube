@@ -21,7 +21,15 @@ let myObj = {
     age: 22,
 }
 
-console.log(typeof heroes);
+//console.log(typeof heroes);
 
 
- 
+// +++++++++++++++
+
+//Stack(primitive) Heap(non primitive) 
+
+let myYoutube = "Candidscape facts"
+
+let anothername = myYoutube
+
+console.log(anothername);
